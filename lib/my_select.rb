@@ -9,7 +9,6 @@ while i < array.length
 end
 array2
 end
-end
 
 
 
